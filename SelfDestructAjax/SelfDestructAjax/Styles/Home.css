@@ -1,0 +1,23 @@
+﻿.box
+{
+    background-color:lightgray;
+    color:black;
+    text-align: center
+    }
+
+
+
+.button
+{
+    width: 200px;
+    border: 2px dashed black;
+    align-content:center;
+    margin:auto;
+    
+}
+
+h1 {
+    text-align: center;
+}
+
+
