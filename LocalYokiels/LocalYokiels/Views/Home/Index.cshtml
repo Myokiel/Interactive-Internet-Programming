@@ -1,0 +1,70 @@
+﻿@model LocalYokiels.Models.HomeModel
+
+
+
+<html>
+<head>
+    <link href="~/Styles/Home.css" rel="stylesheet" />
+    <link href="~/Styles/MediaQuery.css" rel="stylesheet" />
+    <title>Local Yokiels Page of Wonder</title>
+</head>
+
+<body>
+    <script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+    <script src="//ajax.googleapis.com/ajax/libs/jqueryui/1.11.1/jquery-ui.min.js"></script>
+    <script src="~/Scripts/Home.js"></script>
+
+<div class="m-yoke">
+
+<div class="main-header1"><h1>Welcome to Marianne's</h1></div>
+<div class="main-header2"><h2> World of Wonder!</h2></div>
+<br>
+<hr>
+
+<div class="standard-paragraph">Good Afternoon, My name is Marianne, I am 51 yrs young, and I am from Cleveland. 
+I work for T. Marzetti / New York Frozen Foods and have been here just over a year.</div> 
+
+<div class="paragraph-links"><a href= "http://www.marzetti.com"> T. Marzetti Website </a></div>
+<div class="paragraph-links"><a href= "http://www.newyorkbrand.com/"> New York Frozen Foods Website </a></div>
+<div class="standard-paragraph">I have been in Accounting for many years and some form of IT for about 12.</div>
+<div class="standard-paragraph">My son just Graduated from Baldwin Wallace University with a degree in Computer Science and I trying to follow in his footsteps.</div>
+
+<div class="footsteps-image" onclick="ToggleNewPicture()"><h3>Click Me!</h3></div>
+
+<div class="standard-paragraph">I am proud to say he is currently working with a company that creates applications for Blackboard.</div>
+<div class="paragraph-links"><h4>Check it out...<a href= "http://www.goqwickly.com/"> The Qwickly Website</a></h4></div>
+<div class="standard-paragraph">I am taking three courses this fall as well as working full time.  
+I have recently interviewed for a Business Systems Analyst position for the corporate office of my company and hope my 
+experiences and these courses help me to obtain the position. NOTE:  I was not considered for the position.</div>
+<div class="standard-paragraph">I have always loved technology and wish I had not waited so long to commit but better late then never.</div>
+<div class="facts-paragraph"><h3>Interesting Fact!</h3></div>
+<div class="standard-paragraph">An interesting tidbit about my family's programming background.</div>
+ <div class="standard-paragraph">My birth mother whom I spoke with but never met was the Computer Arch Wizard of Diversity University and there is 
+a Wikipedia article written about her and the University.</div>
+<div class="paragraph-links"><a href="http://en.wikipedia.org/wiki/Diversity_University"> Article on Jeanne McWhorter Arch Wizard and Founder of Diversity University</a></div>
+<div class="goofy-paragraph"><h3> Goofy Corner</h3></div>
+<div class="nuts-paragraph">Let me introduce you to the family Squirrel that hangs around our back deck.</div>
+
+<div class="name-paragraph">Can you help pick out a name from the list?</div>
+<br>
+
+<div class="squirrel-image-with-list">
+<div class="squirrel-names">
+<ol>
+<li onmouseover="MouseOver(this)" onmouseout = "MouseOut(this)">Mr. I.M. Nuts
+<li onmouseover="MouseOver(this)" onmouseout = "MouseOut(this)">Mr. Fluffy Tail
+<li onmouseover="MouseOver(this)" onmouseout = "MouseOut(this)">Ted
+</ol></div>
+
+<div class="familysquirrel-image" onclick="ToggleHighlight()"></div>
+</div>
+<br />
+<div class="footer">Enter the number of your choice.</div>
+<input type="text" value="1 2 or 3" onchange="TextInputChanged(this)" />
+<br>
+<br>
+</div>
+
+
+</body>
+</html>

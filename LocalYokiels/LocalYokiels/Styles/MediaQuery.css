@@ -1,0 +1,41 @@
+﻿
+body {
+}
+
+
+@media screen and (max-width: 320px) {
+    .m-yoke .standard-paragraph {display: inline-block;}
+    .m-yoke h1 {color: black; font-size:1em;}
+    .m-yoke h2 {color: darkblue; font-size:1.5em;}
+    .m-yoke .footer {visibility:hidden;}
+    .m-yoke input:enabled {visibility: hidden;}
+    .m-yoke .footsteps-image {display: none;}
+    .m-yoke .name-paragraph{font-family: Cambria; color: darkviolet; font-size: 16px; font-weight: bold;}
+    .m-yoke .nuts-paragraph {font-size: 14px;}
+	
+
+}
+
+@media screen and (min-width: 320px) and (max-width: 480px) {
+    .m-yoke .standard-paragraph {display: inline-block;}
+    .m-yoke .footer {visibility:hidden;}
+    .m-yoke input:enabled {visibility: hidden;}
+    .m-yoke .footsteps-image {display: none;}
+    .m-yoke .name-paragraph{font-family: Cambria; color: darkviolet; font-size: 16px; font-weight: bold;}
+    .m-yoke .nuts-paragraph {font-size: 16px;}
+}
+
+@media screen and (min-width: 480px) and (max-width: 768px) {
+        .m-yoke .standard-paragraph {display: inline-block;}
+
+   }
+
+@media screen and (min-width: 768px) and (max-width: 1024px) {
+        .m-yoke .standard-paragraph {display: inline-block;}
+
+   }
+
+@media screen and (min-width: 1025px) {
+        .m-yoke .standard-paragraph {display: inline-block;}
+   
+    }

@@ -1,0 +1,160 @@
+﻿Body{
+background: #f7fbfc; /* Old browsers */
+background: -moz-linear-gradient(left,  #f7fbfc 0%, #f7fbfc 19%, #d9edf2 47%, #d9edf2 66%, #d9edf2 74%, #add9e4 100%); /* FF3.6+ */
+background: -webkit-gradient(linear, left top, right top, color-stop(0%,#f7fbfc), color-stop(19%,#f7fbfc), color-stop(47%,#d9edf2), color-stop(66%,#d9edf2), color-stop(74%,#d9edf2), color-stop(100%,#add9e4)); /* Chrome,Safari4+ */
+background: -webkit-linear-gradient(left,  #f7fbfc 0%,#f7fbfc 19%,#d9edf2 47%,#d9edf2 66%,#d9edf2 74%,#add9e4 100%); /* Chrome10+,Safari5.1+ */
+background: -o-linear-gradient(left,  #f7fbfc 0%,#f7fbfc 19%,#d9edf2 47%,#d9edf2 66%,#d9edf2 74%,#add9e4 100%); /* Opera 11.10+ */
+background: -ms-linear-gradient(left,  #f7fbfc 0%,#f7fbfc 19%,#d9edf2 47%,#d9edf2 66%,#d9edf2 74%,#add9e4 100%); /* IE10+ */
+background: linear-gradient(to right,  #f7fbfc 0%,#f7fbfc 19%,#d9edf2 47%,#d9edf2 66%,#d9edf2 74%,#add9e4 100%); /* W3C */
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#f7fbfc', endColorstr='#add9e4',GradientType=1 ); /* IE6-9 */
+}
+.m-yoke .standard-paragraph
+{
+ font-family: "Cambria";
+}
+
+.m-yoke .main-header1
+{
+     color: red;
+     text-align: Center;
+     display: block;
+     
+ }
+
+.m-yoke .main-header2
+{
+     color: green;
+     text-align: Center;
+     display: block;
+     
+}
+.m-yoke .paragraph-links 
+{	
+	
+	text-align: Center;
+	margin-top: 20px;
+	margin-bottom: 20px;
+
+}
+
+.m-yoke .goofy-paragraph
+{
+     color: DarkBlue;
+	 text-align: Center;
+
+}
+.m-yoke .facts-paragraph
+{
+     color: DarkRed;
+	 text-align: Center;
+}
+
+
+.m-yoke .footsteps-image
+{
+     background-size: 200px 200px;
+	 border: 2px solid gray;
+	 background-image: url('../images/footsteps.jpg');
+	 background-repeat: no-repeat;
+     width: 200px;
+     height: 200px;
+     margin-left: auto;
+	 margin-right: auto;
+	 margin-top: 30px;
+	 margin-bottom: 30px;
+}
+.m-yoke .programming-image
+{
+     background-size: 200px 200px;
+	 border: 2px solid gray;
+	 background-image: url('../images/programming.png');
+	 background-repeat: no-repeat;
+     width: 200px;
+     height: 200px;
+     margin-left: auto;
+	 margin-right: auto;
+	 margin-top: 30px;
+	 margin-bottom: 30px;
+}
+
+
+
+
+.m-yoke .nuts-paragraph
+{
+    color: Indigo;
+	font-size: 18px;
+	font-weight: bold;
+	width: auto;
+    margin-top: 20px;
+    margin-bottom: 20px; 
+}
+.m-yoke .name-paragraph
+{
+    font-family: Arial, Helvetica, san-serif;
+	color: mediumpurple;
+	font-size: 18px;
+	font-weight: bold;
+	 
+}
+
+.m-yoke .squirrel-image-with-list
+{
+     margin-left: 20px;
+     height: 220px;
+}
+
+.m-yoke .familysquirrel-image
+{
+     display: inline-block;
+	 vertical-align: middle;
+	 background-size: 243px 199px;
+	 border: 2px solid black;
+	 background-image: url('../images/Family Squirrl.jpg');
+	 background-repeat: no-repeat;
+     width: 200px;
+     height: 200px;
+     margin-left: 20px;
+}
+.m-yoke .familysquirrel-highlight
+{
+     display: inline-block;
+	 vertical-align: middle;
+	 background-size: 243px 199px;
+	 border: 2px solid red;
+	 background-image: url('../images/Family Squirrl.jpg');
+	 background-repeat: no-repeat;
+     width: 200px;
+     height: 200px;
+     margin-left: 20px;
+}
+
+.m-yoke .squirrel-names
+{
+    width: 300px;
+    display: inline-block;
+    vertical-align: middle;
+}
+
+
+
+.m-yoke .list-item-bigger
+{
+    font:bold;
+	font-size:20px;
+	color: red;
+}
+
+.m-yoke .li
+{
+    font:italic;
+	width: 300px;
+}
+.m-yoke.footer
+{
+	
+}
+
+
+
+

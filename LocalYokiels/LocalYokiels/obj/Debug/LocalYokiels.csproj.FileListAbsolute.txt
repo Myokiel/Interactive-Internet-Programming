@@ -1,0 +1,62 @@
+c:\users\marianne\documents\visual studio 2012\Projects\LocalYokiels\LocalYokiels\bin\LocalYokiels.dll
+c:\users\marianne\documents\visual studio 2012\Projects\LocalYokiels\LocalYokiels\bin\LocalYokiels.pdb
+c:\users\marianne\documents\visual studio 2012\Projects\LocalYokiels\LocalYokiels\bin\Microsoft.Web.Infrastructure.dll
+c:\users\marianne\documents\visual studio 2012\Projects\LocalYokiels\LocalYokiels\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+c:\users\marianne\documents\visual studio 2012\Projects\LocalYokiels\LocalYokiels\bin\Newtonsoft.Json.dll
+c:\users\marianne\documents\visual studio 2012\Projects\LocalYokiels\LocalYokiels\bin\System.Web.Helpers.dll
+c:\users\marianne\documents\visual studio 2012\Projects\LocalYokiels\LocalYokiels\bin\System.Web.Mvc.dll
+c:\users\marianne\documents\visual studio 2012\Projects\LocalYokiels\LocalYokiels\bin\System.Web.Razor.dll
+c:\users\marianne\documents\visual studio 2012\Projects\LocalYokiels\LocalYokiels\bin\System.Web.WebPages.Deployment.dll
+c:\users\marianne\documents\visual studio 2012\Projects\LocalYokiels\LocalYokiels\bin\System.Web.WebPages.dll
+c:\users\marianne\documents\visual studio 2012\Projects\LocalYokiels\LocalYokiels\bin\System.Web.WebPages.Razor.dll
+c:\users\marianne\documents\visual studio 2012\Projects\LocalYokiels\LocalYokiels\bin\Newtonsoft.Json.xml
+c:\users\marianne\documents\visual studio 2012\Projects\LocalYokiels\LocalYokiels\bin\System.Web.Helpers.xml
+c:\users\marianne\documents\visual studio 2012\Projects\LocalYokiels\LocalYokiels\bin\System.Web.Mvc.xml
+c:\users\marianne\documents\visual studio 2012\Projects\LocalYokiels\LocalYokiels\bin\System.Web.Razor.xml
+c:\users\marianne\documents\visual studio 2012\Projects\LocalYokiels\LocalYokiels\bin\System.Web.WebPages.xml
+c:\users\marianne\documents\visual studio 2012\Projects\LocalYokiels\LocalYokiels\bin\System.Web.WebPages.Deployment.xml
+c:\users\marianne\documents\visual studio 2012\Projects\LocalYokiels\LocalYokiels\bin\System.Web.WebPages.Razor.xml
+c:\users\marianne\documents\visual studio 2012\Projects\LocalYokiels\LocalYokiels\obj\Debug\LocalYokiels.dll
+c:\users\marianne\documents\visual studio 2012\Projects\LocalYokiels\LocalYokiels\obj\Debug\LocalYokiels.pdb
+c:\users\marianne\documents\visual studio 2012\Projects\LocalYokiels\LocalYokiels\obj\Debug\LocalYokiels.csprojResolveAssemblyReference.cache
+\\MARIANNE-LAPTOP\Users\Marianne\Documents\Visual Studio 2012\Projects\LocalYokiels\LocalYokiels\bin\LocalYokiels.dll
+\\MARIANNE-LAPTOP\Users\Marianne\Documents\Visual Studio 2012\Projects\LocalYokiels\LocalYokiels\bin\LocalYokiels.pdb
+\\MARIANNE-LAPTOP\Users\Marianne\Documents\Visual Studio 2012\Projects\LocalYokiels\LocalYokiels\bin\Microsoft.Web.Infrastructure.dll
+\\MARIANNE-LAPTOP\Users\Marianne\Documents\Visual Studio 2012\Projects\LocalYokiels\LocalYokiels\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+\\MARIANNE-LAPTOP\Users\Marianne\Documents\Visual Studio 2012\Projects\LocalYokiels\LocalYokiels\bin\Newtonsoft.Json.dll
+\\MARIANNE-LAPTOP\Users\Marianne\Documents\Visual Studio 2012\Projects\LocalYokiels\LocalYokiels\bin\System.Web.Helpers.dll
+\\MARIANNE-LAPTOP\Users\Marianne\Documents\Visual Studio 2012\Projects\LocalYokiels\LocalYokiels\bin\System.Web.Mvc.dll
+\\MARIANNE-LAPTOP\Users\Marianne\Documents\Visual Studio 2012\Projects\LocalYokiels\LocalYokiels\bin\System.Web.Razor.dll
+\\MARIANNE-LAPTOP\Users\Marianne\Documents\Visual Studio 2012\Projects\LocalYokiels\LocalYokiels\bin\System.Web.WebPages.Deployment.dll
+\\MARIANNE-LAPTOP\Users\Marianne\Documents\Visual Studio 2012\Projects\LocalYokiels\LocalYokiels\bin\System.Web.WebPages.dll
+\\MARIANNE-LAPTOP\Users\Marianne\Documents\Visual Studio 2012\Projects\LocalYokiels\LocalYokiels\bin\System.Web.WebPages.Razor.dll
+\\MARIANNE-LAPTOP\Users\Marianne\Documents\Visual Studio 2012\Projects\LocalYokiels\LocalYokiels\bin\Newtonsoft.Json.xml
+\\MARIANNE-LAPTOP\Users\Marianne\Documents\Visual Studio 2012\Projects\LocalYokiels\LocalYokiels\bin\System.Web.Helpers.xml
+\\MARIANNE-LAPTOP\Users\Marianne\Documents\Visual Studio 2012\Projects\LocalYokiels\LocalYokiels\bin\System.Web.Mvc.xml
+\\MARIANNE-LAPTOP\Users\Marianne\Documents\Visual Studio 2012\Projects\LocalYokiels\LocalYokiels\bin\System.Web.Razor.xml
+\\MARIANNE-LAPTOP\Users\Marianne\Documents\Visual Studio 2012\Projects\LocalYokiels\LocalYokiels\bin\System.Web.WebPages.xml
+\\MARIANNE-LAPTOP\Users\Marianne\Documents\Visual Studio 2012\Projects\LocalYokiels\LocalYokiels\bin\System.Web.WebPages.Deployment.xml
+\\MARIANNE-LAPTOP\Users\Marianne\Documents\Visual Studio 2012\Projects\LocalYokiels\LocalYokiels\bin\System.Web.WebPages.Razor.xml
+\\MARIANNE-LAPTOP\Users\Marianne\Documents\Visual Studio 2012\Projects\LocalYokiels\LocalYokiels\obj\Debug\LocalYokiels.csprojResolveAssemblyReference.cache
+\\MARIANNE-LAPTOP\Users\Marianne\Documents\Visual Studio 2012\Projects\LocalYokiels\LocalYokiels\obj\Debug\LocalYokiels.dll
+\\MARIANNE-LAPTOP\Users\Marianne\Documents\Visual Studio 2012\Projects\LocalYokiels\LocalYokiels\obj\Debug\LocalYokiels.pdb
+E:\My Documents\Interactive Internet Programming\MediaQuery\LocalYokiels\LocalYokiels\bin\LocalYokiels.dll
+E:\My Documents\Interactive Internet Programming\MediaQuery\LocalYokiels\LocalYokiels\bin\LocalYokiels.pdb
+E:\My Documents\Interactive Internet Programming\MediaQuery\LocalYokiels\LocalYokiels\bin\Microsoft.Web.Infrastructure.dll
+E:\My Documents\Interactive Internet Programming\MediaQuery\LocalYokiels\LocalYokiels\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+E:\My Documents\Interactive Internet Programming\MediaQuery\LocalYokiels\LocalYokiels\bin\Newtonsoft.Json.dll
+E:\My Documents\Interactive Internet Programming\MediaQuery\LocalYokiels\LocalYokiels\bin\System.Web.Helpers.dll
+E:\My Documents\Interactive Internet Programming\MediaQuery\LocalYokiels\LocalYokiels\bin\System.Web.Mvc.dll
+E:\My Documents\Interactive Internet Programming\MediaQuery\LocalYokiels\LocalYokiels\bin\System.Web.Razor.dll
+E:\My Documents\Interactive Internet Programming\MediaQuery\LocalYokiels\LocalYokiels\bin\System.Web.WebPages.Deployment.dll
+E:\My Documents\Interactive Internet Programming\MediaQuery\LocalYokiels\LocalYokiels\bin\System.Web.WebPages.dll
+E:\My Documents\Interactive Internet Programming\MediaQuery\LocalYokiels\LocalYokiels\bin\System.Web.WebPages.Razor.dll
+E:\My Documents\Interactive Internet Programming\MediaQuery\LocalYokiels\LocalYokiels\bin\Newtonsoft.Json.xml
+E:\My Documents\Interactive Internet Programming\MediaQuery\LocalYokiels\LocalYokiels\bin\System.Web.Helpers.xml
+E:\My Documents\Interactive Internet Programming\MediaQuery\LocalYokiels\LocalYokiels\bin\System.Web.Mvc.xml
+E:\My Documents\Interactive Internet Programming\MediaQuery\LocalYokiels\LocalYokiels\bin\System.Web.Razor.xml
+E:\My Documents\Interactive Internet Programming\MediaQuery\LocalYokiels\LocalYokiels\bin\System.Web.WebPages.xml
+E:\My Documents\Interactive Internet Programming\MediaQuery\LocalYokiels\LocalYokiels\bin\System.Web.WebPages.Deployment.xml
+E:\My Documents\Interactive Internet Programming\MediaQuery\LocalYokiels\LocalYokiels\bin\System.Web.WebPages.Razor.xml
+E:\My Documents\Interactive Internet Programming\MediaQuery\LocalYokiels\LocalYokiels\obj\Debug\LocalYokiels.dll
+E:\My Documents\Interactive Internet Programming\MediaQuery\LocalYokiels\LocalYokiels\obj\Debug\LocalYokiels.pdb
